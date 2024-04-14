@@ -15,6 +15,7 @@ button {
 body {
   font-family: 'Roboto', sans-serif;
   background: #ffffff;
+  color: #434455;
 }
 /* ================HEADER STYLES================ */
 .page-logo {
@@ -48,7 +49,9 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+}
+
+address {
   font-style: normal;
 }
 
@@ -65,7 +68,7 @@ body {
 .main-page-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+   line-height: 1.07 
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -100,7 +103,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 /* ===============OUR TEAM=============== */
 .our-team-section {
@@ -110,10 +112,11 @@ body {
 .our-team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .team-member {
@@ -136,7 +139,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #434455;
 }
 
 /* ================PORTFOLIO================ */
@@ -146,8 +148,6 @@ body {
 
 .portfolio-item {
   background: #fff;
-  width: 360px;
-  height: 420px;
 }
 
 .portfolio-item-title {
@@ -163,7 +163,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 /* ================FOOTER STYLES=============== */
 .footer-section {
