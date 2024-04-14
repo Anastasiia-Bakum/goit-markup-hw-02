@@ -86,7 +86,7 @@ body {
 .hero-button:focus {
   background: #404bbf;
 }
-
+/* =================BENEFITS================== */
 .benefits-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -102,7 +102,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+/* ===============OUR TEAM=============== */
 .our-team-section {
   background: #f4f4fd;
 }
@@ -117,8 +117,6 @@ body {
 }
 
 .team-member {
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
   text-align: center;
 }
